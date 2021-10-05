@@ -27,7 +27,7 @@ h1{
 iframe {
   width: 100%;
   margin-bottom: 10px;
-  height: 800px;
+  height: 400px;
 }
 @media (max-width: 640px){
   iframe {
